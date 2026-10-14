@@ -2,6 +2,8 @@
 
 Phiên bản chạy trên trình duyệt của project: webcam laptop nhìn vào tờ giấy in marker thì **trái tim 3D trồi lên từ mặt giấy**. Kéo chuột để xoay tim, lăn chuột để phóng to/thu nhỏ, bấm vào chấm màu để xem tên bộ phận.
 
+> **Bài thực hành có hướng dẫn cho trợ giảng:** xem [TUTORIAL.md](TUTORIAL.md) (kiến thức nền, đọc hiểu mã nguồn, 6 bài tập có đáp án).
+
 Trang dùng chung mô hình `Assets/Models/heart.glb` và ảnh marker `Assets/Markers/heart_marker2.jpg` với bản Unity trên điện thoại. Unity bỏ qua thư mục `web/` (nằm ngoài `Assets/`), nên thư mục này không ảnh hưởng gì đến bản Unity.
 
 ## Hướng dẫn chạy

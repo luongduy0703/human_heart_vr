@@ -499,7 +499,7 @@ Khi **Debug Logs** bật, `HeartTracker` và `HeartEmerge` in các dòng bắt �
 
 Thư mục `web/` (cạnh `Assets/`) là bản chạy trên trình duyệt Chrome/Edge bằng webcam laptop, viết bằng MindAR + three.js. Bản này có cùng hiệu ứng tim trồi lên từ tờ giấy và cùng 12 hotspot; kéo chuột để xoay, lăn chuột để zoom, bấm chấm màu để hiện tên. Nó dùng chung `Assets/Models/heart.glb` và ảnh marker với bản Unity, còn Unity bỏ qua thư mục `web/` nên bản điện thoại không bị ảnh hưởng.
 
-Cách chạy nhanh trên Windows: nháy đúp `web/start.bat` (cần Python 3), cho phép camera, rồi giơ tờ giấy in marker vào giữa khung hình webcam. Nếu bật GitHub Pages cho repo, trang còn chạy online tại https://luongduy0703.github.io/human_heart_vr/web/ mà không cần cài gì. Hướng dẫn đầy đủ (Windows, macOS/Linux, GitHub Pages) xem [web/README.md](web/README.md).
+Cách chạy nhanh trên Windows: nháy đúp `web/start.bat` (cần Python 3), cho phép camera, rồi giơ tờ giấy in marker vào giữa khung hình webcam. Nếu bật GitHub Pages cho repo, trang còn chạy online tại https://luongduy0703.github.io/human_heart_vr/web/ mà không cần cài gì. Hướng dẫn đầy đủ (Windows, macOS/Linux, GitHub Pages) xem [web/README.md](web/README.md). Bài thực hành dạng tài liệu trợ giảng (kiến thức nền, đọc hiểu mã nguồn, bài tập có đáp án) xem [web/TUTORIAL.md](web/TUTORIAL.md).
 
 ---
 

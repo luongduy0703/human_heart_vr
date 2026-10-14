@@ -138,7 +138,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &29280328
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -154,7 +154,7 @@ MonoBehaviour:
   arCamera: {fileID: 1650006720}
   leftEye: {fileID: 1638194046}
   rightEye: {fileID: 970195073}
-  resolutionScale: 0.6
+  resolutionScale: 0.8
   targetFps: 30
   autoLayout: 1
   stereo: 1
