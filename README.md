@@ -4,7 +4,7 @@ Bài thực hành AR: điện thoại đặt trong kính VR (kiểu Cardboard), 
 
 Project được làm nhẹ để chạy trên điện thoại cấu hình yếu (ví dụ Vsmart Joy): khóa 30 fps, render ở độ phân giải thấp hơn màn hình, không dùng hậu kỳ.
 
-// Kết quả mong đợi: xuất hiện quả tim có hiệu ứng chui ra từ trong giấy
+// Kết quả mong đợi: Đeo kính và nhìn vào marker xuất hiện quả tim có hiệu ứng chui ra từ trong giấy
 ---
 
 ## Mục lục
